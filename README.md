@@ -1,4 +1,4 @@
-# 🎯 Portfolio Maël Lecomte
+# 🎯 Portfolio Tom Maudet
 
 Un portfolio professionnel premium construit avec **Next.js 14**, **TypeScript**, **TailwindCSS** et **Framer Motion**.
 
