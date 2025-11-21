@@ -77,7 +77,7 @@ export default function Home() {
             <motion.p
               variants={itemVariants}
               className="text-lg text-neutral-500 dark:text-neutral-500 mb-12 max-w-2xl mx-auto leading-relaxed">
-              J'administre, installe et configure des infrastructures réseau et serveur.
+              J'administre / installe / configure des infrastructures réseau et serveur.
             </motion.p>
 
             <motion.div variants={itemVariants} className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
